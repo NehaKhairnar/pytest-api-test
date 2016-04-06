@@ -1,13 +1,7 @@
 import pytest
 import requests
-import conftest
+import base
 
-r= requests.get(conftest.baseurl + 'weather?q=London,uk&appid='+ conftest.apikey)
+r= requests.get(base.baseurl + 'weather?q=London,uk&appid='+base.apikey)
 data = r.json()
 print(data)
-
-def test_hello():
-    print ('hello world')
-    print (data)
-
-print(test_hello())
