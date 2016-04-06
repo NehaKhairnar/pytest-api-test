@@ -6,4 +6,8 @@ r= requests.get(conftest.baseurl + 'weather?q=London,uk&appid='+ conftest.apikey
 data = r.json()
 print(data)
 
-assert data == data
+def test_hello():
+    print ('hello world')
+    print (data)
+
+print(test_hello())
