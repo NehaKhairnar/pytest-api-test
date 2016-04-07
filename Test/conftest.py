@@ -4,7 +4,6 @@ import pytest
 
 
 
-
 @pytest.fixture
 def smtp():
     import smtplib
