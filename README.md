@@ -1,12 +1,29 @@
-# pytest-api-test
-I'm trying to learn api testing using 
+# README #
 
-<<<<<<< HEAD
+This README would normally document whatever steps are necessary to get your application up and running.
 
+### What is this repository for? ###
 
-# http://pytest.org/2.2.4/plugins.html#conftest
-http://www.ajanicij.info/content/pytest-tutorial
-=======
-I want tor write automation script for api on openweather site  http://openweathermap.org/
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
->>>>>>> ebd18278aa3f3035b039e90555ea28eb9afdf236
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact

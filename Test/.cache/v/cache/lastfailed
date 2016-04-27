@@ -1,3 +1,1 @@
-{
-  "test_404.py::test_eval[http://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=8cdf78ace3f304f515bccc14d2206017-London]": true
-}
+{}
